@@ -3,13 +3,12 @@ using namespace std;
 
 int main()
 {
-    int a;
-    int x;
-    if (a = 6)
+    int a = 6;
+    if (a == 6)
     {
         cout << "6";
     }
 
-    cout << "a";
+    cout << "abb";
     return 0;
 }
