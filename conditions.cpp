@@ -1,9 +1,11 @@
-bool ifCondition(int age){
-    if (age>30){
+bool ifCondition(int age)
+{
+    if (age > 30)
+    {
         return false
     }
-    else{
+    else
+    {
         return true
     }
-    
 }
