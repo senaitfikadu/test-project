@@ -2,6 +2,11 @@ bool ifCondition(int age)
 {
     if (age > 30)
     {
-        return false;
+        else
+        {
+            cout << "age<30";
+        }
+
+        return 0;
     }
 }
