@@ -1,5 +1,3 @@
-
-
 char ifCondition(int num)
 {
     if (num > 0)
