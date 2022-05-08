@@ -1,12 +1,17 @@
-bool ifCondition(int age)
-{
-    if (age > 30)
-    {
-        else
-        {
-            cout << "age<30";
-        }
 
-        return 0;
+
+char ifCondition(int num)
+{
+    if (num > 0)
+    {
+        return '+';
+    }
+    else if (num < 0)
+    {
+        return '-';
+    }
+    else
+    {
+        return '0';
     }
 }
