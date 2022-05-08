@@ -4,8 +4,4 @@ bool ifCondition(int age)
     {
         return false;
     }
-    else
-    {
-        return true;
-    }
 }
