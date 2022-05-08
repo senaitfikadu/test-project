@@ -2,10 +2,10 @@ bool ifCondition(int age)
 {
     if (age > 30)
     {
-        return false
+        return false;
     }
     else
     {
-        return true
+        return true;
     }
 }
