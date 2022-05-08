@@ -1,14 +1,10 @@
 #include <iostream>
+#include "conditions.cpp"
 using namespace std;
 
 int main()
 {
-    int a = 6;
-    if (a == 6)
-    {
-        cout << "6";
-    }
-
-    cout << "abb";
+    char res = ifCondition(0);
+    cout << res;
     return 0;
 }

@@ -1,7 +1,17 @@
-bool ifCondition(int age)
+
+
+char ifCondition(int num)
 {
-    if (age > 30)
+    if (num > 0)
     {
-        return false;
+        return '+';
+    }
+    else if (num < 0)
+    {
+        return '-';
+    }
+    else
+    {
+        return '0';
     }
 }
