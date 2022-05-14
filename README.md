@@ -1,5 +1,5 @@
-# test-project
-# test one
-# test two
-# test for from senait pc
-#This changes are from Endalk pc
+# Test project
+#Instruction to run C++ code
+# use any c++ editor
+# First compile the project
+# Run the project
